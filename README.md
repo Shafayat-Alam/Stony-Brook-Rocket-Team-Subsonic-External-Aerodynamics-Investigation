@@ -1,3 +1,3 @@
 # Stony Brook Rocket Team 
 
-Documentation: "Pr3" 
+Documentation: "Stony Brook Rocket Team Preliminary Aerodynamics Investigation" 
