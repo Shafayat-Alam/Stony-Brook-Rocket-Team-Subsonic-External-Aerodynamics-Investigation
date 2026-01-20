@@ -1,4 +1,4 @@
-# Stony Brook Rocket Team 
+# Stony Brook Rocket Team Aerodynamics Investigation
 
 Documentation: "Stony Brook Rocket Team Preliminary Aerodynamics Investigation".
 
